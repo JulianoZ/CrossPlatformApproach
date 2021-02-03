@@ -13,6 +13,5 @@ A repository containing the manuscripts of the interviews with novice:
 https://drive.google.com/drive/folders/1ijYO-5A207qpJGqMPqMzSqN5pVUmLIVT?usp=sharing
 
 Source code for the cross-platform approach:
-
 https://github.com/JulianoZ/SourceCodeCrossplatformApproach/
 
